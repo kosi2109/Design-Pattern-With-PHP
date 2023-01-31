@@ -1,0 +1,1 @@
+The purpose of the Singleton pattern is to ensure that a class will only have one instance at any time during code execution. Another key feature is to provide a global access to that instance.
