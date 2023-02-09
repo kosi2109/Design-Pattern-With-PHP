@@ -1,6 +1,6 @@
 <?php
 
-use Singleton\Logger;
+use Crational\Singleton\Logger;
 
 Logger::getInstance();
 print(Logger::addOne());

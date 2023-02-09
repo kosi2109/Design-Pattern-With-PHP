@@ -1,6 +1,6 @@
 <?php
 
-namespace Singleton;
+namespace Crational\Singleton;
 
 /**
  * Logger used as a Singleton
